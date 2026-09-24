@@ -9,3 +9,8 @@
 .cxx
 local.properties
 /app/build
+
+# Python (backend/)
+__pycache__/
+*.pyc
+venv/
