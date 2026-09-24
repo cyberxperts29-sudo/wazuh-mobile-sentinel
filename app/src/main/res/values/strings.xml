@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wazuh Mobile Sentinel</string>
+    <string name="status_placeholder">Wazuh Mobile Sentinel — background collector</string>
+    <string name="send_test_payload">Send Test Payload</string>
+</resources>
